@@ -7,3 +7,4 @@
  Sesión de introducción
 
  ### Insertamos una imagen
+![hack](img/logo.jpg)
